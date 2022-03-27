@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Microservices in .Net/Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dontunee](https://github.com/dontunee)
+- 👨‍💻 All of my projects are available at https://github.com/Dontunee?tab=repositories
 
 - 📝 I regularly write articles on [https://tundeafo.medium.com/](https://tundeafo.medium.com/)
 
