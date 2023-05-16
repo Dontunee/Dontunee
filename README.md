@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Babatunde Afolabi</h1>
-<h3 align="center">A Software Engineer(Backend Heavy) in Canada</h3>
+<h3 align="center">A Software Engineer(Backend) in Canada</h3>
 
 - 🌱 I’m currently learning **Microservices in .Net/Golang**
 
