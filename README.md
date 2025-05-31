@@ -10,4 +10,4 @@
 
 - 📫 How to reach me **t_afolabi@yahoo.com**
 
-- ⚡ Fun fact **I love Formula 1 Racing and **
+- ⚡ Fun fact **I love Formula 1 Racing and Playing tennis **
